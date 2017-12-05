@@ -1,0 +1,105 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+ }
+.navbar-inverse .navbar-brand{
+	color: #4b0082;
+	font-size: 30px;
+}
+.navbar-header a:hover{
+	color: #4b0082 !important;
+}
+.navbar-nav{
+	padding-left: 190px;
+}
+#home{
+	color: #4b0082;
+	font-size: 17px;
+}
+.navbar-inverse .navbar-nav>li>a{
+	color: #ffffff;
+}
+#element-with-background-image{
+	position: relative;
+	background-image: url(../img/man.jpg) !important;
+	background-position: center;
+	background-size: cover;
+	background-color: transparent;
+	min-height: 400px;
+}
+#color-overlay{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: #4a4848;
+	opacity: 0.6;
+}
+#color-overlay h2{
+	color: #ffffff;
+	font-family: Aharoni !important;
+	font-size: 40PX;
+	text-align: center;
+	padding-top: 120px;
+	
+}
+#color-overlay p{
+	text-align: center;
+	background-color: #6633ff;
+	border-radius: 30px;
+	color: #ffffff;
+	margin-left: 400px;
+	margin-right: 400px;
+	line-height: 35px;
+	font-family: Aharoni;
+	font-size: 20px;
+}
+#color-overlay a{
+	text-align: center;
+	color: #ffffff;
+	line-height: 35px;
+	font-family: Aharoni;
+	font-size: 20px;
+	text-decoration: none;
+}
+#btn{
+	background-color: #4a4848;
+	border-radius: 40px;
+}	
+section h3{
+	font-size: 30px;
+	text-align: center;
+	font-family: aharoni;
+
+}
+section a:hover{
+	text-decoration: none;
+}
+section p{
+	text-align: center;
+	font-weight: 20px;
+	padding-bottom: 50px;
+}
+img{
+	margin-left: 90px;
+}
+footer{
+	background-color: #000000;
+	
+	height: 50px;
+	
+}
+footer p{
+	text-align: center;
+	color: #ffffff;
+	padding-top: 10px;
+
+}
+
+
+
+
+
+
+
